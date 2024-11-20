@@ -78,9 +78,5 @@ This project highlights actionable strategies to reduce costs and improve delive
 ---  
 
 ## **How to Access**  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/delivery-data-analysis.git
-   ```
-2. Open the Power BI dashboard file (**Bazario_Delivery_Dashboard.pbix**) to explore visualizations.  
-3. Review the cleaned dataset in Excel (**Bazario_Delivery_Data.xlsx**) for detailed metrics.  
+1. Open the Power BI dashboard file to explore visualizations.  
+2. Review the cleaned dataset in Excel for detailed metrics.  
